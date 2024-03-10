@@ -4,18 +4,18 @@ This is an assignment solution for Blackcoffer.
 
 In this  project directory, you can run:
 
-npm start
+1. npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-npm test
+2. npm test
 Launches the test runner in the interactive watch mode.
 See the section about running tests for more information.
 
-npm run build
+3. npm run build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -24,7 +24,7 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-npm run eject
+4. npm run eject
 Note: this is a one-way operation. Once you eject, you can't go back!
 
 If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
@@ -38,4 +38,4 @@ You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
 
-Author: Prashant Patel
+**Author: Prashant Patel**
